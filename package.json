@@ -1,0 +1,20 @@
+{
+  "name": "hw11",
+  "version": "1.0.0",
+  "description": "Friend Finder!",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0",
+    "path": "^0.12.7",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Chris Prieto",
+  "license": "ISC"
+}
